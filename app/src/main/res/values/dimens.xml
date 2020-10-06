@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nombre_contacto">35dp</dimen>
+    <dimen name="margen_vertical">30dp</dimen>
+    <dimen name="tel_contacto">20sp</dimen>
+    <dimen name="top">20dp</dimen>
+    <dimen name="left">10dp</dimen>
+    <dimen name="corner_radio_cardview">4dp</dimen>
+    <dimen name="nombre_cardview">20sp</dimen>
+    <dimen name="tel_cardview">15sp</dimen>
+    <dimen name="elevation_actionbar">4dp</dimen>
+</resources>

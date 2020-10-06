@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="nombre">Brian Pelaez</string>
+    <string name="tel">15655555555</string>
+    <string name="email">asdwqeqwe@hotmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptel">tel</string>
+    <string name="pemail">email</string>
+</resources>
